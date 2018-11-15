@@ -1,12 +1,14 @@
 # KoalaNLP
-## 이 저장소는 더 많은 참여를 권장하고, 패키지별 더 쉬운 관리를 위해 [@koalanlp Organization](https://github.com/koalanlp)의 저장소로 옮겨졌습니다.
-## 아래를 눌러 이동하시면 됩니다.
+## 이 저장소는 이전 버전을 위한 자리지기입니다. 
+## 아래를 눌러, [@koalanlp](https://github.com/koalanlp)가 관리하는 최신 버전의 저장소로 이동해주세요.
 
-* [Java/Scala KoalaNLP Home](https://koalanlp.github.io/KoalaNLP-core) / [Repo](https://github.com/koalanlp/koalanlp-core)
+* [Java/Kotlin KoalaNLP Home](https://koalanlp.github.io/koalanlp) / [Repo](https://github.com/koalanlp/koalanlp)
 
-* [Python KoalaNLP Home](https://koalanlp.github.io/py-koalanlp) / [Repo](https://github.com/koalanlp/py-koalanlp)
+* [Python KoalaNLP Home](https://koalanlp.github.io/python-support) / [Repo](https://github.com/koalanlp/python-support)
 
-* [NodeJS KoalaNLP Home](https://koalanlp.github.io/nodejs-koalanlp) / [Repo](https://github.com/koalanlp/nodejs-koalanlp)
+* [NodeJS KoalaNLP Home](https://koalanlp.github.io/nodejs-support) / [Repo](https://github.com/koalanlp/nodejs-support)
+
+* [Scala KoalaNLP Home](https://koalanlp.github.io/scala-support) / [Repo](https://github.com/koalanlp/scala-support)
 
 <hr/>
 
