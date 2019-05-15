@@ -1,6 +1,7 @@
 # KoalaNLP
-## 이 저장소는 이전 버전을 위한 자리지기입니다. 
-## 아래를 눌러, [@koalanlp](https://github.com/koalanlp)가 관리하는 최신 버전의 저장소로 이동해주세요.
+## 이 저장소는 1.x 버전의 API와 사용법 참고를 위한 기록용으로 보존됩니다.
+## 아래를 눌러, [@koalanlp](https://github.com/koalanlp)가 관리하는 최신 버전(2.x 이후)의 저장소로 이동해주세요.
+## 2.x 버전에서는 Daon (김상준), ETRI Open API (ETRI), Khaiii (Kakao)를 추가로 지원합니다.
 
 * [Java/Kotlin KoalaNLP Home](https://koalanlp.github.io/koalanlp) / [Repo](https://github.com/koalanlp/koalanlp)
 
@@ -14,18 +15,10 @@
 
 KoalaNLP
 ==============
-[![Version](https://img.shields.io/maven-central/v/kr.bydelta/koalanlp-core_2.12.svg?style=flat-square&label=release)](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22koalanlp-core_2.12%22)
 [![ScalaDoc](https://img.shields.io/badge/doc-Scala-red.svg?style=flat-square)](http://koalanlp.github.io/KoalaNLP-core/api/scala/kr/bydelta/koala/index.html)
 [![JavaDoc](https://img.shields.io/badge/doc-Java-blue.svg?style=flat-square)](http://koalanlp.github.io/KoalaNLP-core/api/java/index.html)
 [![분석기별 품사비교표](https://img.shields.io/badge/%ED%92%88%EC%82%AC-%EB%B9%84%EA%B5%90%ED%91%9C-blue.svg?style=flat-square)](https://docs.google.com/spreadsheets/d/1OGM4JDdLk6URuegFKXg1huuKWynhg_EQnZYgTmG4h0s/edit?usp=sharing)
-
-[![Build Status](https://img.shields.io/travis/koalanlp/KoalaNLP-core.svg?style=flat-square&branch=master)](https://travis-ci.org/koalanlp/KoalaNLP-core)
-[![codecov](https://img.shields.io/codecov/c/github/koalanlp/KoalaNLP-core.svg?style=flat-square)](https://codecov.io/gh/koalanlp/KoalaNLP-core)
-[![Known Vulnerabilities](https://snyk.io/test/github/koalanlp/KoalaNLP-core/badge.svg?style=flat-square)](https://snyk.io/test/github/koalanlp/KoalaNLP-core)
-
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
-[![nodejs-koalanlp](https://img.shields.io/badge/Nodejs-KoalaNLP-blue.svg?style=flat-square)](https://koalanlp.github.io/nodejs-koalanlp)
-[![py-koalanlp](https://img.shields.io/badge/Python-KoalaNLP-blue.svg?style=flat-square)](https://koalanlp.github.io/py-koalanlp)
 
 # 소개
 한국어 형태소 및 구문 분석기의 모음입니다.
